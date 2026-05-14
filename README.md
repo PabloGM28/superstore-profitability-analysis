@@ -82,7 +82,7 @@ Profitability can be significantly improved by reducing structural dependence on
 ## Repository Structure
 
 ```text
-/excel
+/Superstore-Profitability-Analysis
   Excel workbook with the full analysis
 
 /presentation
