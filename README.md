@@ -87,6 +87,3 @@ Profitability can be significantly improved by reducing structural dependence on
 
 /presentation
   Final PowerPoint business presentation
-
-/outputs
-  Exported charts used in the presentation
